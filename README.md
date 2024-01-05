@@ -1,5 +1,5 @@
-# Distance between parkruns in The Netherlands
-A voronoi plot is helpful to visualise the nearest parkrun in The Netherlands.
+# Voronoi diagram of parkruns in The Netherlands
+A voronoi plot or diagram is helpful to visualise the nearest parkrun in The Netherlands.
 
 It uses the parkruns as mentioned on the website of Roderick Hoffman and uses only the ones which are located in The Netherlands.
 Country border and the borders of the provices are available via the [GADM](https://gadm.org/download_country.html) project. A version with the used resultion is also copied in the files.
