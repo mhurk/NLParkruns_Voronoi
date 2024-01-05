@@ -9,7 +9,7 @@ Voronoi plots are created with the R package ggvoronoi which is available [here]
 The plots look like this for Netherlands with the currently (January 2024) known parkruns : <br>
 ![NL](/images/pakruns_NL_20240105-2103.png)
 
-This is the version without country border because some questions arose whether the lines are correctly positioned:<br>
+This is the version without country border because some questions in a prakrunn statistics forum arose whether the lines are correctly positioned:<br>
 ![plot without border](/images/noborder.png)
 
 
