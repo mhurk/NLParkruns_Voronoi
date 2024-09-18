@@ -1,3 +1,9 @@
+![GitHub Created At](https://img.shields.io/github/created-at/mhurk/NLParkruns_Voronoi)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/mhurk/NLParkruns_Voronoi)
+![GitHub repo size](https://img.shields.io/github/repo-size/mhurk/NLParkruns_Voronoi)
+![GitHub language count](https://img.shields.io/github/languages/count/mhurk/NLParkruns_Voronoi)
+![GitHub last commit](https://img.shields.io/github/last-commit/mhurk/NLParkruns_Voronoi)
+
 # Voronoi diagram of parkruns in The Netherlands
 A voronoi plot or diagram is helpful to visualise the nearest parkrun in The Netherlands.
 
